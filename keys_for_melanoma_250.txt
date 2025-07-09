@@ -1,0 +1,250 @@
+108 melanoma
+242 melanoma
+19 melanoma
+238 melanoma
+2 melanoma
+212 melanoma
+15 melanoma
+77 melanoma
+76 melanoma
+111 melanoma
+152 melanoma
+25 melanoma
+103 melanoma
+158 melanoma
+236 melanoma
+131 melanoma
+39 melanoma
+233 melanoma
+147 melanoma
+166 melanoma
+149 melanoma
+114 melanoma
+88 melanoma
+129 melanoma
+85 melanoma
+10 melanoma
+24 melanoma
+52 melanoma
+227 melanoma
+247 melanoma
+113 melanoma
+235 melanoma
+87 melanoma
+164 melanoma
+35 melanoma
+197 melanoma
+17 melanoma
+201 melanoma
+191 melanoma
+124 melanoma
+43 melanoma
+206 melanoma
+192 melanoma
+210 melanoma
+71 melanoma
+185 melanoma
+86 melanoma
+20 melanoma
+8 melanoma
+84 melanoma
+181 melanoma
+153 melanoma
+194 melanoma
+81 melanoma
+188 melanoma
+72 melanoma
+137 melanoma
+48 melanoma
+143 melanoma
+187 melanoma
+217 melanoma
+45 melanoma
+246 melanoma
+34 melanoma
+146 melanoma
+223 melanoma
+123 melanoma
+65 melanoma
+180 melanoma
+70 melanoma
+174 melanoma
+5 melanoma
+214 melanoma
+200 melanoma
+27 melanoma
+220 melanoma
+3 melanoma
+105 melanoma
+154 melanoma
+112 melanoma
+179 melanoma
+29 melanoma
+163 melanoma
+135 melanoma
+176 melanoma
+234 melanoma
+178 melanoma
+54 melanoma
+69 melanoma
+249 melanoma
+169 melanoma
+91 melanoma
+130 melanoma
+121 melanoma
+30 melanoma
+219 melanoma
+61 melanoma
+120 melanoma
+133 melanoma
+215 melanoma
+209 melanoma
+55 melanoma
+75 melanoma
+106 melanoma
+162 melanoma
+82 melanoma
+128 melanoma
+23 melanoma
+97 melanoma
+204 melanoma
+37 melanoma
+207 melanoma
+208 melanoma
+38 melanoma
+80 melanoma
+198 melanoma
+126 melanoma
+239 melanoma
+172 melanoma
+47 melanoma
+150 melanoma
+67 melanoma
+127 melanoma
+195 melanoma
+218 melanoma
+232 not melanoma
+18 not melanoma
+59 not melanoma
+56 not melanoma
+157 not melanoma
+229 not melanoma
+98 not melanoma
+94 not melanoma
+26 not melanoma
+41 not melanoma
+190 not melanoma
+142 not melanoma
+134 not melanoma
+12 not melanoma
+46 not melanoma
+245 not melanoma
+171 not melanoma
+0 not melanoma
+221 not melanoma
+32 not melanoma
+138 not melanoma
+122 not melanoma
+167 not melanoma
+199 not melanoma
+248 not melanoma
+170 not melanoma
+144 not melanoma
+145 not melanoma
+151 not melanoma
+73 not melanoma
+107 not melanoma
+141 not melanoma
+79 not melanoma
+216 not melanoma
+99 not melanoma
+224 not melanoma
+104 not melanoma
+36 not melanoma
+244 not melanoma
+33 not melanoma
+49 not melanoma
+102 not melanoma
+90 not melanoma
+139 not melanoma
+110 not melanoma
+1 not melanoma
+182 not melanoma
+63 not melanoma
+148 not melanoma
+116 not melanoma
+60 not melanoma
+74 not melanoma
+7 not melanoma
+165 not melanoma
+140 not melanoma
+161 not melanoma
+240 not melanoma
+96 not melanoma
+231 not melanoma
+168 not melanoma
+21 not melanoma
+31 not melanoma
+101 not melanoma
+109 not melanoma
+115 not melanoma
+159 not melanoma
+132 not melanoma
+160 not melanoma
+202 not melanoma
+193 not melanoma
+119 not melanoma
+95 not melanoma
+173 not melanoma
+40 not melanoma
+92 not melanoma
+78 not melanoma
+68 not melanoma
+117 not melanoma
+213 not melanoma
+196 not melanoma
+58 not melanoma
+118 not melanoma
+53 not melanoma
+62 not melanoma
+205 not melanoma
+175 not melanoma
+156 not melanoma
+226 not melanoma
+189 not melanoma
+83 not melanoma
+237 not melanoma
+13 not melanoma
+4 not melanoma
+225 not melanoma
+243 not melanoma
+50 not melanoma
+183 not melanoma
+93 not melanoma
+28 not melanoma
+177 not melanoma
+51 not melanoma
+155 not melanoma
+14 not melanoma
+42 not melanoma
+186 not melanoma
+44 not melanoma
+22 not melanoma
+16 not melanoma
+136 not melanoma
+64 not melanoma
+230 not melanoma
+11 not melanoma
+57 not melanoma
+184 not melanoma
+241 not melanoma
+228 not melanoma
+222 not melanoma
+9 not melanoma
+6 not melanoma
+211 not melanoma
+203 not melanoma
+125 not melanoma
+66 not melanoma
+100 not melanoma
+89 not melanoma
